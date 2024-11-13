@@ -350,9 +350,9 @@ const styles = StyleSheet.create({
 
   logo: {
     Maxheight: 50, 
-    Maxwidth: 50,
+    Maxwidth: 30,
     marginTop: 120,
-    marginLeft: 10,
+    alignItems: 'center',
   }
 });
 
