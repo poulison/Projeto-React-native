@@ -350,8 +350,10 @@ const styles = StyleSheet.create({
 
   logo: {
     Maxheight: 50, 
-    Maxwidth: 30,
+    Maxwidth: 40,
     marginTop: 120,
+    marginLeft: 'auto', /* aqui */
+    marginRight: 'auto', /* e aqui */
     alignItems: 'center',
   }
 });
